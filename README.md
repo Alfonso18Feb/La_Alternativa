@@ -5,7 +5,7 @@
 ## EJ 1 : Sucesor de un DÍA de la semana
 
 
-## dias sucesivos
+## este programa te devuelve el dia siguiente del escrito en el input
 ## Ej 2: Números, suma y producto
 ## clasificar los numeros
 ## Ej 3:  Descuento
